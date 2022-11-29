@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-//comments //
 func main() {
-	fmt.Println("Olá world!")
+	fmt.Println("2.5 + 2.5 = ", 2.5+2.5)
 }

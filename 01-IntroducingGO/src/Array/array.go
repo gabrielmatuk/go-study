@@ -2,7 +2,8 @@ package main
 
 import "fmt"
 
-//comments //
 func main() {
-	fmt.Println("Olá world!")
+	var x [10]int
+	x[4] = 80
+	fmt.Println(x)
 }

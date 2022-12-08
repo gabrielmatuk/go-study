@@ -1,0 +1,9 @@
+{
+    "individuos":[
+        {"nome": "Gabriel", "idade": 23, "salario":  5500, "social": {"midias": "facebook"}},
+        {"nome": "João", "idade": 30 , "salario":  5500, "social": {"midias": "facebook"}},
+        {"nome": "Claudi", "idade": 11, "salario":  5500, "social": {"midias": "facebook"}},
+        {"nome": "Bruno", "idade": 14, "salario":  5500, "social": {"midias": "facebook"}}
+
+    ]
+}
